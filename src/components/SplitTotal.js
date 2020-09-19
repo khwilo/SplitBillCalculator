@@ -4,12 +4,13 @@ import { StyleSheet, Text, View } from 'react-native';
 const styles = StyleSheet.create({
   textHeader: {
     fontSize: 18,
-    color: '#5a4db5',
+    color: '#ffffff',
+    fontWeight: '700',
+    letterSpacing: 1.5,
   },
   textOutput: {
     fontSize: 30,
-    fontWeight: '700',
-    color: '#5a4db5',
+    color: '#ffffff',
   },
 });
 

@@ -12,11 +12,12 @@ const styles = StyleSheet.create({
   },
   titleText: {
     fontSize: 18,
-    color: 'gray',
+    color: '#616161',
+    letterSpacing: 1.5,
+    fontWeight: '700',
   },
   textInput: {
     fontSize: 30,
-    fontWeight: '700',
   },
 });
 

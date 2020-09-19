@@ -8,7 +8,7 @@ const styles = StyleSheet.create({
   sectionOutput: {
     flexDirection: 'row',
     justifyContent: 'space-between',
-    backgroundColor: '#efeffa',
+    backgroundColor: '#192E7A',
     borderRadius: 10,
     paddingVertical: 40,
     paddingHorizontal: 20,
