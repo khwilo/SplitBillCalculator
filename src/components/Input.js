@@ -32,7 +32,7 @@ const Input = ({ label, amount, placeholderText, handleTextChange }) => {
           defaultValue={amount}
           onChangeText={handleTextChange}
         />
-        {label === 'Tip ' ? <Text style={styles.textInput}>%</Text> : null}
+        {label === 'Tip' ? <Text style={styles.textInput}>%</Text> : null}
       </View>
     </View>
   );
