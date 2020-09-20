@@ -1,9 +1,8 @@
-# Tip Calculator
+# Split Bill Calculator
 
-![Tip calculator application demo](https://github.com/khwilo/project-demos/blob/master/tip-calculator/tip_calculator_demo.gif)
+![Split bill calculator application demo](https://github.com/khwilo/project-demos/blob/master/tip-calculator/tip_calculator_demo.gif)
 
-
-Mobile application to calculate the amount of bill to pay after giving a tip. This application involves the following steps:
+Mobile application to calculate the split bill to pay after giving a tip. This application involves the following steps:
 
 - [x] Enter bill to pay
 - [x] Enter the tip to give
